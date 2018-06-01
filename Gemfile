@@ -36,6 +36,10 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
  # Use Twitter Bootstrap library for front-end UI and layout
  gem 'bootstrap-sass'
+ 
+ # Use Font Awesome sass gem for Icon
+ gem 'font-awesome-sass', '~> 5.0.13'
+
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record

@@ -13,11 +13,14 @@
  *= require_tree .
  *= require_self
  */
-
+// Bootstrap
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+// Font Awesome Gem
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
-// Typgraphy Styles
+// Typography Styles
 h1, h2, h3 {
   font-family:'Open Sans', sans-serif;
 }
