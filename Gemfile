@@ -39,7 +39,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
  
  # Use Font Awesome sass gem for Icon
  gem 'font-awesome-sass', '~> 5.0.13'
-
+ 
+ #jquery
+ gem 'jquery-rails'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
