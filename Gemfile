@@ -40,6 +40,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
  # Use Font Awesome sass gem for Icon
  gem 'font-awesome-sass', '~> 5.0.13'
  
+ # Use Hirb for better database table display in console
+ gem 'hirb', '0.7.3'
+ 
  #jquery
  gem 'jquery-rails'
 
