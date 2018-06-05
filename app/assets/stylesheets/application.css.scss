@@ -69,6 +69,10 @@ h1, h2, h3 {
     padding-bottom: 100px;
 }
 
+.alert-notice {
+  display:none;
+}
+
 //navbar refactoring according to sass
 .navbar .navbar-brand,
 .navbar-default .navbar-nav > li > a{
