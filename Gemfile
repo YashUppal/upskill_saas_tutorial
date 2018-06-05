@@ -43,6 +43,10 @@ gem 'bootsnap', '>= 1.1.0', require: false
  # Use Hirb for better database table display in console
  gem 'hirb', '0.7.3'
  
+ # Use Devise for user authentication
+ gem 'devise'
+
+ 
  #jquery
  gem 'jquery-rails'
 
