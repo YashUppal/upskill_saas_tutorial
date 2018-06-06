@@ -46,6 +46,14 @@ gem 'bootsnap', '>= 1.1.0', require: false
  # Use Devise for user authentication
  gem 'devise'
 
+ # Use stripe for user payments
+ gem 'stripe'
+ gem 'stripe_event'
+ 
+ # Figaro
+ 
+ gem 'figaro'
+
  
  #jquery
  gem 'jquery-rails'
