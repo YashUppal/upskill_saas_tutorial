@@ -1,3 +1,4 @@
+bundle update
 # frozen_string_literal: true
 
 # Use this hook to configure devise mailer, warden hooks and so forth.
@@ -9,7 +10,8 @@ Devise.setup do |config|
   # Devise will use the `secret_key_base` as its `secret_key`
   # by default. You can change it below and use your own secret key.
   # config.secret_key = '7d6bf6c0b29dcd112f9184ee492d559b2b0a0655dd2d6ec786cde806efd5f9a6fd2fedae59c1e4535c5db660f8f13968000aba249ffc7c7f36d46a655de716c4'
-
+#   config.secret_key = Rails.application.credentials.secret_key_base
+  config.secret_key = 'e96cabf3f552aef599186a035d693af2e280dd474d2baa947125622d9523bec8c0c639e746c2c6db77c47472e15f4e1df366c68fa837dacb0aee1a6cff3bdd4d'
   # ==> Controller configuration
   # Configure the parent class to the devise controllers.
   # config.parent_controller = 'DeviseController'
