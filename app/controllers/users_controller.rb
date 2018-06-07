@@ -2,7 +2,7 @@ class UsersController < ApplicationController
   
   
   def index 
-    
+    @users = User.includes(:profile)
   end
   
   before_action :authenticate_user!
