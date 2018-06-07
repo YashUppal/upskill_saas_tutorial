@@ -1,0 +1,432 @@
+[33mcommit 0f068b87a185264490462fadc8473a9f47b8a469[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 09:39:34 2018 -0400
+
+    Added avatar column to Profiles table
+
+[33mcommit f9fbcfd281a65d0947da8edaa44528f3df45438e[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 09:29:54 2018 -0400
+
+    Added bare bones user show page and updated profiles redirect
+
+[33mcommit 125fc53185b91252f2f6145cdcad5513555b2c17[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 09:16:02 2018 -0400
+
+    Added users controller and show view
+
+[33mcommit db03b8b116d3d1d1da6ef471eb3e39358f25b4fd[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 09:00:29 2018 -0400
+
+    Added profile create action
+
+[33mcommit a0fdefcb06be0f71af71859b736b23c5b0d56096[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 08:39:25 2018 -0400
+
+    Added user profiles form
+
+[33mcommit d94ef7c748250ead1cf489d1709d13cd906408ff[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 08:27:56 2018 -0400
+
+    Added profiles controller, new view, and link on homepage
+
+[33mcommit 4257c84bdd622c216192a0da3b70aa894d30dbc7[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 08:00:50 2018 -0400
+
+    Added profile and user associations
+
+[33mcommit d4fbef6bd8c08eedf09625e3643c23c5a13ce962[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 07:55:11 2018 -0400
+
+    Added profile table
+
+[33mcommit 2872533e311cf89d69fb8447edeb995801f5cfd7[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 07:22:16 2018 -0400
+
+    Trying to fix error
+
+[33mcommit d56d59fd53ff9eeed6452a1c867734ad5856f289[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 07:19:19 2018 -0400
+
+    sk
+
+[33mcommit d28b9fc3ee10c6459ff69e417258081b63816262[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 07:12:39 2018 -0400
+
+    ?
+
+[33mcommit 50e08276752e87b5c3e1f9a6d52d1f1ab54bbc60[m
+Merge: 8266acc 1705049
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 07:04:15 2018 -0400
+
+    Commit before merger to msater
+
+[33mcommit 1705049de5933e6c573e4f154acd902d58ea0252[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 06:57:40 2018 -0400
+
+    Added flash notice for selecting membership plan
+
+[33mcommit 5a052a1cdb1a7b49efc8687d1bededa854df2971[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 06:45:28 2018 -0400
+
+    Updated flash message styles and js
+
+[33mcommit 010f0df80b9de670e2eab81131b47afd21fae789[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu Jun 7 06:33:01 2018 -0400
+
+    Added code comments for Stripe
+
+[33mcommit 6d3e56b5deef04876a9f40f2b2baa13009d01eec[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 18:48:12 2018 -0400
+
+    Added server side code for creating subscriptions for pro users
+
+[33mcommit fd0a3accbbcaea24537facdaf5d8c25c4e7278bd[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 17:51:19 2018 -0400
+
+    Added Stripe response handler and error handling js
+
+[33mcommit 86353202c9b9049883b12cbf58ff11e5d6203d30[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 17:26:56 2018 -0400
+
+    Added js for sending card fields to Stripe
+
+[33mcommit 861c7751fcd6d5df09b7181ef3b63c889d117a8c[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 16:51:58 2018 -0400
+
+    Added Stripe JS library and pro form id
+
+[33mcommit 562fd26fd99dbce1d25f6c7f09d7a56662c4b8d4[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 16:42:42 2018 -0400
+
+    Added plan id as hidden fields to signup forms
+
+[33mcommit 6df389fb4d4cd410519fb066b7951b9e7adb52d6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 16:34:58 2018 -0400
+
+    Added Stripe customer token to users table
+
+[33mcommit dbc094f2181ab8eb92d606945712a5779c7d282a[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 08:28:35 2018 -0400
+
+    Added stripe and figaro gem and api keys
+
+[33mcommit 8266acc9f09a8f07d9c1801917baab5fba8231e4[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 08:27:46 2018 -0400
+
+    Added stripe and figaro gems and api keys
+
+[33mcommit 29a8e735f67276e3de0088304a11535021d06314[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 07:19:18 2018 -0400
+
+    Final commit before merging to master
+
+[33mcommit a6f2366e8cacc646219daf38244620f2c753ab36[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Wed Jun 6 07:18:18 2018 -0400
+
+    Final commit before merging to master branch
+
+[33mcommit 17590b0d132cd7f3dbea5aca896153ca61dd9739[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 17:29:27 2018 -0400
+
+    Modified the sign up forms
+
+[33mcommit ce109308d1e9bacf33310c861c885eeda4398bda[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 16:16:55 2018 -0400
+
+    Added conditional logic on sign up form
+
+[33mcommit 7cc11492353a354b6af690892ef1523fb68336d9[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 14:42:12 2018 -0400
+
+    Added plan vars and params to home page
+
+[33mcommit b67a24779eacb1fa8025c5b3d66097e8c04d5dd6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 14:11:09 2018 -0400
+
+    Added sign up links to home page
+
+[33mcommit f300fa09002611ad231b4520b1f94ec727008194[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 10:10:42 2018 -0400
+
+    Added association for plans and users
+
+[33mcommit 396e8c2b27672c96a9d51673096fa515f84247be[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 09:41:46 2018 -0400
+
+    Added plans table
+
+[33mcommit d7bd0fc1061052173626af74e06e6d20c3b73f8e[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 08:39:31 2018 -0400
+
+    Hide devise flash messages
+
+[33mcommit ca6f082954e48a93391dec4665635a62503744e7[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 08:32:14 2018 -0400
+
+    Added conditional logout button
+
+[33mcommit a4e6609b87f7de67d7d1e7ef8b5e38df7be2a688[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 08:19:02 2018 -0400
+
+    Updated nav links to helpers
+
+[33mcommit f3ecee283e9add40482f82309d78c6da008e4452[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 07:37:56 2018 -0400
+
+    Added bootstrap to login form
+
+[33mcommit 9fbd66676e6df182adf0a3f1a8fd57c4f0eb173e[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 07:29:07 2018 -0400
+
+    Added bootstrap to registration form
+
+[33mcommit 38d3495992671f827681c1de33f1b87de3d59c30[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Tue Jun 5 06:54:36 2018 -0400
+
+    Installed Devise Gem
+
+[33mcommit 23cc5d0f12f23966662d76863f6b34256880bae0[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Mon Jun 4 18:02:10 2018 -0400
+
+    Added code comments
+
+[33mcommit d9a9340e96917a0cee7dbce5e4e519d57a276ec0[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Mon Jun 4 15:18:11 2018 -0400
+
+    Trigger the mailer from the controller
+
+[33mcommit a248075dc1806a2816697e54eb4f712c69677e3f[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Mon Jun 4 06:50:08 2018 -0400
+
+    Added contact form mailer view
+
+[33mcommit 482ded5ad8774945eb326969a0e91213d6e5131e[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Mon Jun 4 06:18:40 2018 -0400
+
+    Added contact form mailer file
+
+[33mcommit 4eaf9fa95f191c4a058d5fb72b9fcfd91546ffbf[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sun Jun 3 15:27:28 2018 -0400
+
+    Added custom contact form path
+
+[33mcommit 42a8f1572815f2274b7e04762523770a01ed280a[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sun Jun 3 14:46:04 2018 -0400
+
+    Improved flash style
+
+[33mcommit ba56a2176fa6b0a2b9d0161363dff63f5d5d8ace[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 16:50:45 2018 -0400
+
+    Improved Error messages
+
+[33mcommit d24615c531d11a573c56027b7b10325d05521615[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 15:38:13 2018 -0400
+
+    Added form validations to model
+
+[33mcommit a54537e147b00820790e04ec732f53a11f85fe75[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 15:06:07 2018 -0400
+
+    Added Hirb gen
+
+[33mcommit 95ea285f955d9b7d18d8e463a2f5df2da3a971b6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 09:46:17 2018 -0400
+
+    Added create action to save to db
+
+[33mcommit ae97a4be093d9cf456e9a4db9b0608ee95b4f540[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 08:38:25 2018 -0400
+
+    Added contact model file
+
+[33mcommit 76ed7e93e5c30521473ea2def32351d4e5cc5756[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 08:10:34 2018 -0400
+
+    Created contact table
+
+[33mcommit 4ca34dfc8febb184458c9c2c2dd8be38476a9c9b[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 06:37:18 2018 -0400
+
+    Added nav link for contact page
+
+[33mcommit b564e7b580e60be831ef7e2a3f9541fb2fec85cc[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Sat Jun 2 06:23:16 2018 -0400
+
+    Added bootstrap to form
+
+[33mcommit b06a06acb78416e944942e2da7af746c805db5a6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 17:59:32 2018 -0400
+
+    Added form fields
+
+[33mcommit 6baa3112e83905a0f6f030f259959d2d8891d0fc[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 17:41:42 2018 -0400
+
+    Added contact form view, route, controller
+
+[33mcommit 5f5c2374af1b60632538a9b9e1c3047097cfd411[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 17:31:05 2018 -0400
+
+    Final Commit to pages_and_layout branch
+
+[33mcommit b33cc5c11318d4c1c5355719c45d8ac5a67fe3db[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 16:14:06 2018 -0400
+
+    Added Bootstrap js and updated nav styles
+
+[33mcommit effa306668f9d9f83fafe0a4dc0c845d85f5d8c6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 15:16:17 2018 -0400
+
+    Updated about page and logo style
+
+[33mcommit db0b3eb081eea3ad0e8584551093a420cb29e123[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 14:53:52 2018 -0400
+
+    Updated links to use prefixes
+
+[33mcommit 031182797ab3f1ed8f0fc710c2d630924edd50eb[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 13:52:08 2018 -0400
+
+    Added Font Awesome Gem
+
+[33mcommit 61836cee1f87dd4491b7c2d0d0d9f7cde02b39e6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 13:15:01 2018 -0400
+
+    Refactored code with Sass
+
+[33mcommit 0a9ed6818a6c3128751443e6fea31add0470eeb6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 12:58:43 2018 -0400
+
+    Updated navbar styles
+
+[33mcommit 116abd8292c7053b7b02d32e0382610a4195e2cf[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 08:52:41 2018 -0400
+
+    Modifid home callout CSS
+
+[33mcommit 6a020f3c385e2a8462bcabd6df28dda1d31d5c05[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 08:31:38 2018 -0400
+
+    Added gradient
+
+[33mcommit aa64d8ba0eaac56e8fbef182ec2b80751af7d7bd[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Fri Jun 1 08:22:33 2018 -0400
+
+    Fixed the navbar, had stopped working
+
+[33mcommit ce6df3984cc6d842ade58b1b593e413c04c52fcc[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 18:16:29 2018 -0400
+
+    Navbar
+
+[33mcommit 9eae25bd9aca51f43ec8d57e4b956166d856519f[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 18:06:06 2018 -0400
+
+    Added navbar
+
+[33mcommit 82b9280ce98ea06f3d71ff2c6721efa5c5977c5c[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 17:39:34 2018 -0400
+
+    Added bootstrap gem
+
+[33mcommit dd81426f497a1ee9049a91cef04371c9f896b8ca[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 16:53:23 2018 -0400
+
+    Added about view, route, controller action
+
+[33mcommit 94a512231bd1b81f08f05a041c5987f8bdede842[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 16:39:22 2018 -0400
+
+    Added custom Google Fonts
+
+[33mcommit c24fd23d67e99ad6d28e30397e915c678826cad6[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 16:23:58 2018 -0400
+
+    Added a home view, controller action, route
+
+[33mcommit b230f2e421ebda64f3372bc74095d20c392315ff[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 15:49:18 2018 -0400
+
+    Gemfile Update
+
+[33mcommit 9b9d22b1d47cba6f29e214649e44cec38ee5fb94[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 15:27:09 2018 -0400
+
+    Updated Gemfile
+
+[33mcommit efb1011b68fe3c8c576a0b7879f83664ad045e23[m
+Author: Yash Uppal <yashayash123@gmail.com>
+Date:   Thu May 31 14:25:53 2018 -0400
+
+    Initial Commit
