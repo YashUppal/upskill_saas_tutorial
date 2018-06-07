@@ -44,6 +44,7 @@ class ProfilesController < ApplicationController
     else
       render action: :edit 
   end
+  end
   
   private
     def profile_params
@@ -55,4 +56,3 @@ class ProfilesController < ApplicationController
       redirect_to(root_url) unless @user == current_user
     end
   
-end
