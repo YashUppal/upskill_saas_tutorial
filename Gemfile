@@ -52,6 +52,14 @@ gem 'bootsnap', '>= 1.1.0', require: false
  # Use Stripe for payment processing
  gem 'stripe'
 
+ # Use stripe for user payments
+ gem 'stripe'
+ gem 'stripe_event'
+ 
+ # Figaro
+ 
+ gem 'figaro'
+
  
  #jquery
  gem 'jquery-rails'
