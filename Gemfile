@@ -59,6 +59,9 @@ gem 'bootsnap', '>= 1.1.0', require: false
  # Figaro
  
  gem 'figaro'
+ 
+ # Use Paperclip for image uploads
+ gem 'paperclip'
 
  
  #jquery
